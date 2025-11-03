@@ -76,5 +76,5 @@ WTFPL -- do whatever you want with this.
 
 ## 💬 Author
 
-Created by [Grigory Volkov](https://github.com/gregory-volkov)
+Created by [Grigory Volkov](https://github.com/gregory-volkov) \
 Contributions and issues welcome!

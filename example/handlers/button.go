@@ -3,7 +3,7 @@ package handlers
 import (
 	"fmt"
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
-	"github.com/gregory-volkov/go-telegram-fsm/fsm"
+	"github.com/gregory-volkov/go-telegram-fsm"
 )
 
 func HandleButton(ctx *fsm.Context, u tgbotapi.Update) (fsm.StateID, error) {

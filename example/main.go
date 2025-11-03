@@ -2,8 +2,8 @@ package main
 
 import (
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
+	"github.com/gregory-volkov/go-telegram-fsm"
 	"github.com/gregory-volkov/go-telegram-fsm/example/handlers"
-	"github.com/gregory-volkov/go-telegram-fsm/fsm"
 	"log"
 	"os"
 	"time"
